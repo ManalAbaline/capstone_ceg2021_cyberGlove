@@ -1,6 +1,6 @@
 # capstone_ceg2021_cyberGlove
 
-#Members: 
+# Members: 
 Ali El Achkar  
 Lamya Abaline
 Manal Abaline
